@@ -30,6 +30,7 @@
         <mapping class = "pl.myHyb.Car"/>
 
         <mapping class = "pl.myHyb.User"/>
+        <mapping class = "pl.myHyb.Order"/>
 
     </session-factory>
 </hibernate-configuration>
